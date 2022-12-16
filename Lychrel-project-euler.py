@@ -30,7 +30,7 @@ def palindro(n:int):
 def Lychrel_Function(n):
     flag = 0
     if ():
-
+        pass
 
 
 Lychrel = 0
